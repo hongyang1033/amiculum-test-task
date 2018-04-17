@@ -43,5 +43,3 @@ Temporary Items
 ### Node modules ###
 node_modules/
 
-### Distribution/build folder ###
-dist/

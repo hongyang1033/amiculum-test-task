@@ -9335,12 +9335,6 @@ nav {
   height: 10px;
   border-radius: 100%; }
 
-.carousel-control-prev-icon {
-  background-image: url("/assets/img/prev.png"); }
-
-.carousel-control-next-icon {
-  background-image: url("/assets/img/next.png"); }
-
 .modal-header {
   text-align: center;
   border-bottom: none; }
